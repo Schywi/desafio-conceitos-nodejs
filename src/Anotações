@@ -1,0 +1,16 @@
+yarn test =  te da o resutlado das funcionaldiades que ja estão prontas e as que vc não 
+desenvolveu 
+
+Nos textes automatizados , o "-" significa que faltou alguma informação 
+
+
+Rodas os testes com yarn test --watchALL 
+
+Apos terminar o desafio :  execute no terminal : 
+git add 
+git commit -m "Projects CRUD, likes " 
+git push 
+
+
+Depois vc copia o seu url , do github 
+e cola no site do sylab 
