@@ -56,7 +56,7 @@ informações mais detalhadas e não deixam os parametros ficarem visiveis na ur
 Execute o comando `yarn` no seu terminal para instalar todas as dependências
 
 <p align="center">
-  <img  src="./assets/nodejs-example.png">
+  <img  src="./src/assets/nodejs-example.png">
 </p>
 
 ### Rotas da aplicação
